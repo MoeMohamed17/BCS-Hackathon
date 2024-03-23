@@ -41,6 +41,8 @@ intents.message_content = True
 
 bot = commands.Bot(command_prefix='!', intents=intents)
 
+chat_history = []
+
 @bot.command()
 async def question(ctx, *, question: str = None):
     if not question:
@@ -56,7 +58,6 @@ async def question(ctx, *, question: str = None):
         # Handle any exceptions as before
         await ctx.send(f"Sorry, I couldn't process your question due to an error: {str(e)}")
 
-chat_history = []
 
 @bot.event
 async def on_ready():
