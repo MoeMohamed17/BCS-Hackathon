@@ -25,10 +25,12 @@ query = None
 if len(sys.argv) > 1:
   query = sys.argv[1]
 
+#loading data
 loader = DirectoryLoader("data/")
 
 index = VectorstoreIndexCreator().from_loaders([loader])
 
+#our llm
 chain = ConversationalRetrievalChain.from_llm(
   llm=ChatOpenAI(model="gpt-3.5-turbo"),
   retriever=index.vectorstore.as_retriever(search_kwargs={"k": 1}),
@@ -36,6 +38,7 @@ chain = ConversationalRetrievalChain.from_llm(
 
 os.environ["DISCORD_API_KEY"] = constants.DISCORD_TOKEN
 
+#discord bot 
 intents = discord.Intents.default()
 intents.message_content = True
 
