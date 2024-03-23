@@ -1,0 +1,218 @@
+However, at least a week before your scheduled registration date e-mail BCS Director Patrice Belleville bcs-director@cs.ubc.ca with a list of your planned courses for Term 1 & 2 of the coming year, so that we can verify course exemptions and help ensure bridging/exemption replacement choices are appropriate. Note that you register for both Sep–Dec and Jan–Apr in the summer! (We do not comment on subsequent terms now because of high advising load!)
+
+(Just list term and course number—e.g., MATH 180 Term 1—not specific lecture/lab/tutorial sections. We cannot check whether the sections you chose are good choices for you!)
+
+In normal terms, including starting September, the BCS Director generally holds office hours for you to come and meet him in person. However, much of advising is still best done via e-mail.
+
+See the Course Planning section below for some very useful resources to help with this!
+
+1.2 Old BCSers: Get a "Grad Check" at Some Point
+The BCS Director can perform a graduation check ("grad check") for you, usually fairly rapidly. You get a grad check every once in a while, certainly at least once around the midpoint of your degree, to make sure you're on track to graduate. See the Course Planning section below for some very useful resources to help with this!
+
+Mail bcs-director@cs.ubc.ca and ask for a "grad check" to proceed.
+
+And yes, it's a second degree: We're all old BCSers.
+
+2 Course Planning
+Take a look at the advising checklist(link is external) to help you plan your courses.
+
+You can find course descriptions and prereqs for CPSC (and other) courses in the UBC calendar: https://vancouver.calendar.ubc.ca/course-descriptions/subject/cpsc(link is external)
+
+The actual course days and times for this coming September-April are also listed in the calendar: https://courses.students.ubc.ca/cs/main(link is external)
+
+During the COVID-19 pandemic, six BCSers got together (virtually) to create the BCS Explorer. It comes with no guarantees, but you will likely find it very helpful for your planning: https://ubcexplorer.io/bcs(link is external)! Among other things, new BCSers using it can copy/paste the next two terms from their "Degree Transcript" to let the BCS Director know your first Winter's plan. The BCS Explorer team is still working on improvements as of June 2020.
+
+2.1 Bridging Module
+Your bridging module must be 15 credits of courses numbered 300 or above that form a coherent whole. Think of it as a "build-your-own minor". (Courses from a single discipline—possibly with related CPSC courses—usually count as "coherent". For modules drawn from multiple disciplines, compose a ~2–3 sentence argument for why the courses fit together.) At least 9 credits of these must be from outside CPSC. Choose a bridging module of interest to you that you can productively connect to computing (often in the area of your previous degree).
+
+Note that upper-level CPEN courses can be used in your bridging module (if they are coherent with the module) like any other non-CPSC courses but cannot be used to fulfill your 300- or 400-level CPSC elective slots, again like any other non-CPSC course.
+
+Bridging modules are subject to approval by a BCS advisor, but if you follow these instructions, you'll typically receive approval.
+
+To discover bridging module courses, you might try entering a 300+ course of interest into BCS Alum Scott Wang's BCS Guru http://bcsguru.pythonanywhere.com/(link is external). (It comes with no guarantees but may give you ideas.)
+
+2.2 Upper-Level Scientific/Technical Communication Requirement (STCM 3xx)
+(You may sometimes see this written as "ENGL 301" in our correspondence.)
+
+For your upper-level scientific and technical communication requirement, ENGL 301 is the most common choice, but it fills quickly! As a fallback, you can take ENGL 301 in summer or in your second year.
+
+You may also take any of the following to fulfill the requirement: BIOC 420, BIOC 421, CHEM 300, COGS 402, COMM 390, CPSC 430, CPSC 491, ENGL 301, ENGL 309, HIST 393, HIST 394, KIN 373, MICB 404, MICB 406, MICB 412, MICB 421, MICB 447, MICB 471, MICB 475, PATH 405, PHAR 479, PHIL 331, PHIL 333, PHIL 360, PHIL 364, PHIL 369, PHIL 427, PHIL 434, PHIL 455, PHIL 469, PHRM 471, PHYS 348, SCIE 300, or a directed studies in a science discipline with a substantive, individual report or presentation component. (For very small group reports or presentations, you'd need to check with the BCS Director.)
+
+Note: you may not take APSC 201 during BCS to fulfill this or your first-year ENGL requirement.
+
+If you took any of these courses or APSC 201 or KIN 205 prior to entering the BCS program but were not exempted from the upper-level communication requirement, please contact us and point out the course and the term in which you took it. (But, but please see the timeline for exemptions.)
+
+BCS students who wish to take SCIE 300 in Sep–Dec or Jan–Apr terms—presumably to fulfill your upper-level scientific/technical communication requirement—and meet the prerequisites (2nd year Statistics, which may be taken as a co-req as well) should send an e-mail request to Vishakha Monga <vishakha@mail.ubc.ca> with the following information:
+
+Your name, your student #, and your program (BCS).
+ALL SCIE 300 sections that fit your schedule - both in Term 1 and 2. (The more options you list, particularly in Term 1, the higher the chance of being placed in the course.) See: https://courses.students.ubc.ca/cs/courseschedule?tname=subj-course&course=300&sessyr=2022&sesscd=W&dept=SCIE&pname=subjarea(link is external)  (Be sure to select the upcoming Winter session!)
+They will maintain a list of requests from BCS (and other non-CMS) students and offer seats in the course in the order received subject to schedule flexibility and space, after all 3rd year CMS students have had a chance to register.
+
+2.3 Prerequisites to CPSC Courses
+Make sure that you have the prerequisites to any course that you want to take. If you lack a prerequisite to a CPSC course, you will get a "Missing Prerequisite" letter in the first week of lecture. If you have a prerequisite equivalent from prior post-secondary work outside UBC, then see a CPSC advisor or the BCS Director to evaluate and record those prereqs. Note that there's specific guidance about prereqs that are MATH courses below, however.
+
+If you did not receive an exemption for a course but we included a note that you should discuss exemption for that course, please contact bcs-director@cs.ubc.ca about it ASAP. If you don't hear back in time for registration, register right away as if you were not exempted.
+
+2.4 Prerequisites to Non-CPSC Courses
+If you have a prerequisite equivalent to a non-CPSC course from prior post-secondary work outside UBC, look up the advising rules for the department offering that course to see if you will be allowed to take their course. (Searching for "X undergraduate advising" where X is the department in question usually works well.) See below for specific notes on MATH courses and prerequisites, however.
+
+2.5 Prerequisites that are MATH Courses
+For any MATH work you took or will take at UBC (Vancouver), no special action is needed to use that coursework to fulfill MATH prerequisites.
+
+ 
+
+Otherwise, for MATH 180, MATH 101, MATH 200, or MATH 221: If you believe you should be exempt AND you were not provided exemption in the welcome letter AND you need that exemption to register for some subsequent CPSC or MATH course (e.g., CPSC 340 or MATH 317), please send a message to bcs-director@cs.ubc.ca with the subject line 'MATH exemption request' and include in the body: your name and student # and the specific course names/numbers with the institutions/terms/years you took the relevant courses along with which UBC course(s) you believe each one corresponds to. Including course descriptions, syllabi, and/or URLs would help.
+
+If BCS has exempted you from MATH 180, MATH 101, MATH 200, or MATH 221, attaching the e-mail informing you of that exemption to a Math Advising Contact Form(link is external) may be enough. In case it is not enough, ask Math Advising to work with bcs-director@cs.ubc.ca.
+
+ 
+
+Otherwise, if you believe you should be exempt from any other MATH course AND you need that exemption to register for some subsequent MATH or CPSC course: Please reach out via the Math Advising Contact Form(link is external) and provide similar information to that above, but begin by reaching out to BCS regarding lower-level MATH courses.
+
+ 
+
+If you similarly need a MATH exemption to register for a course in another department (e.g., STAT 306), it is likely worthwhile to begin with the process above before reaching out to that department's undergraduate advising.
+
+2.6 Promotion to 4th Year by the end of April
+You are not required to meet promotion requirements in your first two terms, but if you don't you'll have late registration for (and less chance of getting into) next year's September and January classes. See the BCS calendar entry for promotion requirements(link is external).
+
+2.7 A Caution on Course Availability
+Remember that the BCS schedule is compressed; so, you may need to be flexible about the courses you take given the schedule of offerings, particularly with 4th year CPSC electives. Summer offerings are particularly limited; so, if you're ahead of the usual BCS schedule in CPSC or will be taking an extra academic summer session beyond the one in your first year, plan ahead carefully and consider contacting the BCS Director or Staff Lead for advice!
+
+2.8 Choosing a STAT course
+If you want to go further in STAT, take STAT 200 instead of STAT 203. Note that STAT 200 has significant mathematics prerequisites, however.
+
+After you join BCS, do not take any course outside of STAT that is credit-excluded with STAT 203 (such as PSYC 218 or BIOL 300).
+
+If you were exempted from STAT 203, you cannot receive credit for any course (including STAT 200) that is credit-excluded with STAT 203. To take such a course for credit, you must justify removing the exemption first.
+
+2.9 Choosing a MATH course
+Within the constraints of their prerequisites and scheduling, you are welcome to take any of the MATH courses credit-excluded with MATH 180 in place of MATH 180 if you can get registered. If you take a 3-credit course (like MATH 100), it simply fulfills the full MATH 180 requirement. If you take MATH 110, it fulfills the MATH 180 requirement with 3 of its 6 credits; you can use the remaining 3 credits to fulfill a lower-level exemption replacement, if you have one available.
+
+2.10 Minimum Credit Loads (e.g., with financial aid or student housing)
+BCS itself imposes no minimum credit load, but some students may need to maintain minimum credit loads.
+
+For Canadian government full-time student loans, you may need to maintain "60% full-time" status. See the BCS credit load guide(link is external) for authoritative details; contact your Enrolment Services Advisor(link is external) if you cannot find information you need!
+
+You may need the same or different minimum loads for student housing eligibility, international student or visa status, or insurance coverage.
+
+The BCS team cannot tell you when you need these minima!
+
+If you require 10 credits minimum in a term, consider that many of the early courses in the degree (like MATH 180, CPSC 110, CPSC 121, and CPSC 210) are 4-credit courses. You may also want to search for courses(link is external) with particular credit loads.
+
+2.11 Timeline for the Degree
+You can (and most BCS students do!) also take extra academic terms to graduate. See the BCS calendar entry(link is external) for details.and you must complete the degree within 2  years of that promotion. However, all of these restrictions are in the hands of the Faculty of Science rather than BCS! Also, be sure to read the previous section. A low early credit load may also delay your promotion to 4th year standing. See the BCS calendar entry for promotion requirements. If you're not taking any courses, avoid gaps of more than 8 months, take at least one course in your first Winter session, and contact bcs-director@cs.ubc.ca.
+
+2.12 Taking Graduate-Level Courses
+See the BCS calendar entry(link is external) for details on taking graduate-level courses. There are many hoops and limitations, but some BCSers do it anyway. (If you were very recently in a UBC graduate-level program in good standing, you may be able to convince your old department to let you take a course with many fewer restrictions.)
+
+3 Registration
+Register at the UBC Student Service Centre for term 1 and 2 courses (Sep–Dec and Jan–Apr) as soon as your registration time begins this summer, even if it means getting up early!
+
+Full CPSC courses will often have a waiting list (e.g., 2W3 for section 203); if it's not there when you register, check back several times per day. Even if there is no waiting list yet, seats may open up as people fine-tune their timetables and drop the course.
+
+Non-CPSC courses may not have a waiting list. (Also be warned that some waiting lists outside CPSC also allow open seats to appear even when the waiting list is non-empty.) Contact the department owning the course to find a solution. The CPSC department only handles CPSC courses! (For questions about COMM/COMR registration, for example, investigate the Sauder School's notes on registration assistance(link is external).)
+
+3.1 Reserved Sections, Labs, and Tutorials for BCS in CPSC 110, 121, and 210
+When possible, please register for the sections of CPSC 110, CPSC 121, and CPSC 210 where there are reserved seats for BCS students. The list of those should be in the welcome e-mail you received.
+
+4 Exemptions and Replacement
+We have exempted you from any of the specifically required courses in the BCS program of which we believe you have taken equivalents. Let us know if the exemptions we indicated to you seem wrong! It is especially hard for us to review exemptions for STAT 203 and upper-level communications, since these are offered under many departments and with many names.
+
+4.1 Replacing Most Exemptions
+Replace each lower-level (100- or 200-numbered) exemption with 3 credits of any other UBC course (that is for credit for Science students, including CPSC and upper-level courses if you'd like). Exemption replacements are officially subject to the BCS Staff Lead or Director's approval, but we approve any replacements that meet the requirements here and are of genuine academic interest.
+
+4.2 Replacing STCM 3xx (and Other Exemptions Numbered 300+)
+(You may sometimes see this written as "ENGL 301" in our correspondence.)
+
+If you are exempted from the upper-level technical and scientific communication requirement (STCM 3xx), it must be replaced with 3 credits as above but numbered 300 or higher, but otherwise behaves like any other exemption.
+
+4.3 ENGL 1xx Requirement, Exemption, and Exemption Exam
+(You may sometimes see this written as "ENGL 199" in our correspondence.)
+
+To be admitted to the BCS program, you already had to have the equivalent of one UBC ENGL 1xx course. We admitted you; so, you have it as far as we're concerned. No BCSer takes that course during BCS, and no BCSer gets an "exemption" from it.
+
+Additionally, you need to take 3 more credits of UBC ENGL 1xx as part of the BCS degree. If we exempted you from ENGL 1xx, it's these 3 credits you were exempted from. In that case, you don't need to take any ENGL 1xx at UBC, but you will need one course to replace it as usual with an exemption.
+
+Note:
+
+ENGL 140 does not fulfill the ENGL 1xx (first year) requirement.
+WRDS 150 does fulfill the ENGL 1xx requirement. Prior to 2020W, there may have been restrictions on who can take WRDS 150 and how its credits count.
+BCS students with degrees from North American, English-speaking institutions who did not receive exemption from the ENGL 1xx requirement may be able to receive exemption using the English Exemption Exam(link is external). Proof of completion of a previous degree must be presented when the test is written. The English department does not charge a fee for this test, but out-of-province students must arrange for the required invigilation and pay for the courier costs if they plan to write at another institution. Please contact the English Department at First-Year.English@ubc.ca or (604) 822-4247 ASAP if that's the case!
+
+The exam is graded on a Pass/Marginal Pass/Fail scale, and students are guided by the BCS leadership (Director and Staff Lead) and the English department toward the appropriate part(s) of the exam of the literature and composition parts. (I.e., if you have a literature course, take only composition part and vice versa. Some students are asked to take both parts, in which case we consider their minimum grade.)
+
+Students who meet the description above and earn a Pass (not Marginal Pass) on all required parts of the exam will then be exempted from the ENGL 1xx requirement. As usual, exemptions must be replaced with alternate coursework (3 credits). Please see other BCS policies for more information on what can be taken as an exemption replacement.
+
+4.4 CPSC 110 Exemption and Challenge Exam
+Some of you have taken an introductory CS course but were not exempted from CPSC 110. CPSC 110 is a radical departure from most institutions' intro CS. It focuses on good design principles and uses the programming language Racket. If you feel you should "skip" CPSC 110, you can take the CPSC 110 challenge exam(link is external) in early September, although you will certainly have to study CPSC 110's curriculum to succeed. Still, do ask us if you think we exempted you (or failed to!) in error!
+
+If you are taking the CPSC 110 challenge exam, register for CPSC 110 and CPSC 210 as if you were not taking it. The challenge exam administrators will help you transfer CPSC 210 registration from Term 2 to Term 1. You may however want to register for one or more of CPSC 213 and 221 in Term 2 and then drop them if you do not take credit from the challenge exam. (If you take only one of these, CPSC 221 may be the best since it is a prereq to more than CPSC 213.)
+
+If you take the challenge exam and meet the grade threshold for credit, you can either take the grade (counts as your CPSC 110 course and 4 credits in BCS) or take an exemption (counts as a standard BCS CPSC 110 exemption).
+
+4.5 What to Use for Exemption Replacements
+A good use of exemptions is to take prerequisites for CPSC or bridging module electives. For example, say you plan to take computer graphics (CPSC 314) as a CPSC third-year elective. CPSC 314 has prerequisites of MATH 200 (Calc III) and MATH 221 (Linear Algebra). Unless you already have these or equivalent courses, you might take them to replace your exemptions!
+
+But, you could also take additional computing courses or just take a course out of interest!
+
+4.6 Timeline for Exemptions
+If it was five to ten years at the time you entered BCS since you took a course for which you were exempted, and you have not used the skills from that course since, we are likely to be able to remove the exemption and allow you to take the course for credit. Please contact us if this is the case, letting us know the exemptions and courses you're concerned about.
+
+On the other hand, if it has been more than ten years since you took a course for which you hope to be exempted, be aware that we may require you to take the course anyway. If you want to be exempted from such a course anyway, contact us and explain the exemptions and courses involved and how you've maintained your skills in those areas.
+
+4.7 Getting Credit for Courses Before Your BCS Start Date
+ 
+4.7.1 "Early" Admission in the Summer
+If you are taking courses at UBC that do not contribute toward any other degree program (e.g., finishing off your previous degree), we may be able to backdate your admission to put those courses into your BCS program. Contact the BCS Director at bcs-director@cs.ubc.ca with details of your situation (including your student #) if you think this applies to you!
+
+4.7.2 Importing "Unused" Courses
+You may be able to import a very limited number of courses from your previous degree, under some strong restrictions:
+
+UBC Vancouver courses only. (Confirmed 2020 June with Science Advising.)
+Taken within the last five years
+Directly relevant to your BCS degree (e.g., BCS requirements, prereqs for BCS requirements, or clearly coherent with your bridging module)
+Unused in any way toward any previous credential (i.e., you would have graduated had the course been entirely erased from your record)
+Maximum of 12 credits total, maximum of 6 credits upper-level (numbered 300+)
+Imported courses become part of BCS, as if you took them during the BCS degree.
+
+If you think this applies to you, check in with the BCS Director. (We will need a note about the "totally unused" part from a program advisor for your previous degree.)
+
+5 Courses to Avoid
+ 
+5.1 No Double-Counting
+Throughout your program, you cannot double-count courses (e.g., using the required core course CPSC 313 in your bridging module), and you cannot receive credit for retaking a course, whether you took the exact same course previously or one that is substantially similar.
+
+5.2 Avoid Credit Excluded Courses
+The Faculty of Science's Credit Exclusion List(link is external) shows which courses are paired with each other (i.e., are not for duplicate credit).
+
+For example, many courses are "paired" with STAT 203 and thus cannot be taken for credit if you have credit or an exemption for STAT 203. Be cautious of this list as you plan courses. You may not take two credit excluded courses for credit!
+
+So, for example, if you have credit for PSYC 218 (or equivalent), you can't also get credit for STAT 203. (Instead, you should have been exempted.)
+
+Additionally, once you are in the BCS program, you may not take any course for credit that is credit-excluded with a CPSC course. (Be especially careful about APSC, CPEN, and COMM courses.)  BCS students can not get credit for DSCI 310, because it is credit-excluded with CPSC 310, and the latter is required for the program.
+
+5.3 Not For Credit for Science or Computer Science Students
+Also note that there are courses that cannot be taken for credit in Science; that will be documented in their UBC calendar entries. For example, there are several ASTR and EOSC courses numbered in the 310-319 range that fall into this category. (You can see what that looks like in the EOSC 310 calendar entry(link is external).)
+
+Also see the ENGL 1xx section above for information on ENGL 140 and WRDS 150.
+
+(Note that you may take STAT 203 in the BCS Degree.)
+
+Separately some CPSC courses cannot be taken for credit by BCS students including APSC 160 and CPSC 100, 203, 259, 260, 261, and 301. (While CPSC 103 and CPSC 107 can be used together in place of CPSC 110, CPSC 110 is the norm for BCSers.)
+
+6 Co-op
+About 75% of BCS students take co-op (i.e., two paid, work terms, usually during the second year in BCS). A number of well-advertised, co-op information sessions will be held in the Fall. The first 4-month co-op work term pays on average around $12,500. The placement rate is high, but there is no guarantee of admission or placement. Treat the application process very seriously!
+
+7 Getting Involved in the BCS Community
+Along with the BCS Study Room (ICCS X330), the BCS Club, BCS sections of some courses, and town halls, a good way to start getting involved in the BCS community is to join some informal fora for BCS students. Consider joining the BCS Piazza group(link is external) (https://piazza.com/class/ju35hbiqp9c2kw/(link is external)), BCS Facebook group(link is external), or the BCS Discord server(https://discord.gg/hFHX7xwa). (The BCS piazza group is indirectly controlled by the program leadership, while the BCS Facebook group and Discord server are entirely controlled by BCS students. To sign up for the BCS Piazza, you may need to use a ubc.ca e-mail address.) Individual BCS cohorts also sometimes have a Facebook group Here's the 2021 BCS Cohort Facebook group(link is external). Let us know if this is out of date!
+
+Promotion to fourth year requirements: 
+Students are admitted into third year. Promotion to fourth year requires the completion at least 24 credits, and the completion of, or exemption from, the following:
+• CPSC 110, 121
+• 3 credits of first-year ENGL
+• MATH 180 or equivalent
+• STAT 203 or equivalent
+• 3 credits of upper-level electives
+
+
