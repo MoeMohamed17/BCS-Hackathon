@@ -10,3 +10,62 @@ All your transcripts and documents should be submited directly to UBC Admissions
 When will future offerings of the BCS (ICS) program take place?
 We admit students to start the program in September only, and the application deadline is usually January 15 of the same year.  The deadline for referees to submit references is January 15 of the same year.
 
+I have never touched a computer before, and I barely know how to turn it on. Is this program for me?
+YES! The BCS (ICS) program is designed for people who have little or no computing experience who are interested in getting the knowledge and experience they need to be employable by the information technology industry. However, we recommend that you take a computer literacy course to ensure that you're familiar and comfortable with using computers before beginning the program.
+
+How do I know whether this program is suitable for me?
+Generally, if you enjoy problem-solving, puzzles, math and logic, you will enjoy studying Computer Science. If you are a full time parent with young children, please be aware of the time commitment for this program and make necessary arrangements for your children while you attend classes and study.
+
+What are the requirements for applying to BCS (ICS)?
+A recognized Bachelor's degree in a non-computer related area (e.g. arts, science, commerce, music)
+in computer science, if your knowledge is very out of date (e.g. 1980s and earlier)
+Solid academic achievement (at least a 68% (B-) average over the last 30 recognized credits)
+Little or no programming experience, or outdated programming knowledge
+BC Principles of Mathematics 12, or equivalent
+Three credits from any eligible course from the Faculty of Science’s BSc Communication 
+Feel comfortable using computers
+
+I have finished all the requirements of my degree but it hasn't been officially awarded yet. Can I apply?
+Yes, as long as the BCS (ICS) Admissions Committee has a letter from your university saying that you will be recommended for graduation upon completion of all your current course work. Admission to UBC will not be finalized until your degree has been awarded.
+
+Where can I complete my computer literacy and/or Math 12 prerequisites so as to be eligible for BCS (ICS)?
+Computer literacy courses and math courses equivalent to high school grade 12 Principles of Mathematics can be taken at most universities, colleges, or senior high school programs. Possible local options are:
+
+UBC
+Simon Fraser University
+University of the Fraser Valley
+Capilano University
+Langara College
+Kwantlen University College
+Vancouver School Board
+etc.
+
+Where can I take my college or university level English course?
+You can do it at UBC or at most colleges and universities in North America. You can even take the course as an online course through Thompson Rivers University (via BC's Open Learning program). Important: Before enrolling in an English course at any institution
+
+I have not completed my English, Math, and computer literacy requirements. Can I still apply?
+Yes. The BCS (ICS) Admissions Committee can accept your application, conditionally; however, you must complete and pass the English and Math prerequisite courses before you can be admitted to the university. Please make sure that you have met the admission requirements by April 30 at the latest. 
+
+I am in high school and I want to apply. Can I?
+No. You need a bachelor's degree to participate in this program. If you are in high school and you would like to participate in the information technology sector, you may want to take computing courses now, or enter computer science when you pursue post-secondary education after graduation from high school.
+
+What are you looking for in terms of grades?
+The BCS (ICS) program is very demanding. Participants have to demonstrate that they will be able to handle the work load. Above average grades in your previous degree are expected. Good math marks are an asset; however, some BCS applicants have few/no Math courses beyond Math 12. Since, the final goal of this program is to produce very employable and desirable graduates, we will be taking all aspects of your application into consideration, including academic background, work history, and references.
+
+Can I enrol in the program on a part-time basis?
+It is possible to enroll in the BCS (ICS) program on a part-time basis. This will obviously defer your graduation date. If you anticipate taking more than 4 years to complete your BCS degree, you should discuss this with a BCS advisor. Students are expected to complete CPSC 110, 121, and 210 in first year. Note that Computer Science courses tend to have long prerequisite chains, and poor course scheduling/planning can significantly impact your choice of future courses. Some senior Computer Science courses and bridging electives may only be offered once per year.
+
+How much does it cost to participate in the BCS (ICS) program?
+Students pay regular Science undergraduate tuition fees on a per-credit basis. The BCS (ICS) program requires a minimum of 63 credits for graduation (i.e. 21 courses, although some courses are worth 4 credits each; so this can bring the total to 70 credits, if you do not have any course exemptions). For more information, please refer to the online calendar: https://vancouver.calendar.ubc.ca/fees/tuition-fees/undergraduate
+
+What kind of certification will I graduate with upon completion of this program?
+BCS (ICS) students will receive a Bachelor of Computer Science (ICS) degree upon successful completion of the two-year program.
+
+How does the co-op option of BCS (ICS) work?
+It follows the university co-op process. BCS (ICS) students will submit their resumes to the jobs posted by the co-op office and then potential employers will interview those they are interested in hiring.  The employer then makes a job offer to a chosen student through the student's co-op coordinator. When you are placed with a company, you will be registered in the "co-op" course at UBC by the Science Co-op office.  You will be charged a fee for each co-op term, as it is considered an essential academic activity.
+
+What is meant by the term "course exemption"?
+If you are exempted from a course, this means you can replace it with another course. For example, if you have already taken an acceptable post-secondary calculus course, then you will be exempted from MATH 180. This does not reduce your graduation requirements by 3 or 4 credits; instead, it means that you must replace MATH 180 with another course of your choice that you haven't taken before. A good choice of replacement is a lower-level (1st or 2nd year) course that is a prerequisite to an upper-level course that you want to take later, and which you may have had to take anyway. For example, some BCS students want to take Computer Graphics (CPSC 314) or Machine Learning (CPSC 340), but these courses require MATH 221 (among others) as a prerequisite. Thus, taking MATH 221 using the replacement course is a wise idea. Then, you might not have to increase your time, or number of credits, to graduation (depending on your other prerequisites, of course). If you are exempted from an upper-year course (like ENGL 301), then you need to replace it with another upper-level course. Note that any 4-credit course from which you are exempted can be replaced by a 3-credit course.
+
+Is there an application fee to apply to BCS (ICS)?
+Yes. The BCS (ICS) application fee is $100 per person. It is payable with part 2 of your application and it is non-refundable. Note that this is not the same as the application fee you pay to apply to the university, or the tuition fee deposit mentioned above. Additional application fees will be required when you make a formal application to UBC during part 1 of the admission process (see the Application and Administrative Fees section in the UBC Calendar).
