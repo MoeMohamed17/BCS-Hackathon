@@ -1,6 +1,6 @@
 import os
 import sys
-import constants
+import constants as constants
 import discord 
 import warnings
 
