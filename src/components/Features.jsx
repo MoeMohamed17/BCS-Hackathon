@@ -2,12 +2,15 @@ import { OrbitControls } from "@react-three/drei";
 import { Canvas } from "@react-three/fiber";
 import React from "react";
 import styled from "styled-components"
-// import Scene from "./Scene"; 
+import Scene from "./Scene"; 
 import UBC from "./UBC";
+// import Badge_3 from "./Badge_3";
+import Advantages from "./Advantages";
 
 const Section = styled.div`
   height: 100vh;
   scroll-snap-type: center;
+  scroll-snap-type: y mandatory;
   display: flex;
   justify-content: center;
 `
@@ -59,6 +62,10 @@ const Button = styled.button`
   border-radius: 5px;
   padding: 10px;
   cursor: pointer;
+
+  &:hover {
+    background-color: #9638E5;
+  }
 `
 
 
@@ -67,22 +74,26 @@ const Features = () => {
         <Section>
           <Container>
             <Left>
-               {/* 3d model */}
                <Canvas>
-                {/* <Scene /> */}
                 <ambientLight intensity={1} />
                 <directionalLight position={[3,2,1]} />
                 <UBC scale={[80, 80, 80]} />
+                {/* <Scene scale={[1, 1, 1]} /> */}
+
+                {/* <Badge_3 scale={[80, 80, 80]} /> */}
                 <OrbitControls enableZoom={false} autoRotate />
                </Canvas>
             </Left>
             <Right>
-              <Title>Think outside the square space</Title>
+              <Title>A BCS Discord Bot</Title>
               <WhatWeDo>
-                <Line src="./img/line.png" />
-                <Subtitle>What we Are</Subtitle>
+                {/* <Line src="./img/line.png" /> */}
+                <ul>
+                  <Advantages />
+                </ul>
+                {/* <Subtitle>What we Are</Subtitle> */}
               </WhatWeDo>
-              <Description>a creative group of designers and developers with a passion for the arts.</Description>
+              {/* <Description>a creative group of designers and developers with a passion for the arts.</Description> */}
               <Button>Use our bot!</Button>
             </Right>
           </Container>

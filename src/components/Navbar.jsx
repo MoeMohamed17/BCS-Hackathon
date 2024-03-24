@@ -42,6 +42,10 @@ const Button = styled.button`
     color: white;
     border: none;
     border-radius: 5px;
+
+    &:hover {
+        background-color: #9638E5;
+      }
 `;
 
 

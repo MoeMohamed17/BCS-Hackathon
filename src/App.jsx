@@ -1,4 +1,4 @@
-import {useRef} from "react";
+import { useRef } from "react";
 import { useScroll } from "framer-motion";
 import styled from "styled-components"
 import Hero from './components/Hero';
@@ -10,7 +10,6 @@ import Parallax from "./components/parallax/Parallax";
 import Background from "./components/Background";
 
 const Container = styled.div`
-  
   scroll-behavior: smooth;
   overflow-y: auto;
   scrollbar-width: none;
@@ -23,15 +22,14 @@ const Container = styled.div`
 function App() {
 
   return (
-  <Container>
+    <Container>
       <Background />
       <Hero />
       <Parallax type="services" />
-      {/* <WhatWeDo />  */}
-      <Features />
-      <Parallax type="integrations"/>
+      <Features id="features"/>
+      <Parallax type="integrations" />
       <Integrations />
-  </Container>
+    </Container>
   )
 }
 

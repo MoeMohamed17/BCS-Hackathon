@@ -17,7 +17,7 @@ const Parallax = ({type}) => {
     });
     setInterval(() => console.log(scrollYProgress.current), 500);
     const yText = useTransform(scrollYProgress, [0,1], ["0%", "500%"]);
-    const yBg = useTransform(scrollYProgress, [0,1], ["0%", "100%"]);
+    const yBg = useTransform(scrollYProgress, [0,1], ["0%", "10%"]);
     
 
     return (
@@ -27,7 +27,9 @@ const Parallax = ({type}) => {
                 {type === "services" ? "What We Do?" : "Integrations"}
             </motion.h1>
             <motion.div className="mountains"></motion.div>
-            <motion.div style={{ y: yBg }} className="planets"></motion.div>
+            <motion.div style={{ y: yBg, backgroundImage: `url(${
+                type === "services" ? "/img/planets.png" : "/img/sun.png"
+            })` }} className="planets"></motion.div>
             <motion.div style={{ x: yBg }} className="stars"></motion.div>
         </Section>
     )
