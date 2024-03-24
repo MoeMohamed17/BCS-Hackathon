@@ -11,6 +11,7 @@ const Section = styled.div`
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
+  scroll-snap-type: y mandatory;
 `
 
 const Container = styled.div`
