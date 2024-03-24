@@ -16,7 +16,6 @@ And yes, it's a second degree: We're all old BCSers.
 2 Course Planning
 Take a look at the advising checklist(link is external) to help you plan your courses.
 
-You can find course descriptions and prereqs for CPSC (and other) courses in the UBC calendar: https://vancouver.calendar.ubc.ca/course-descriptions/subject/cpsc(link is external)
 
 The actual course days and times for this coming September-April are also listed in the calendar: https://courses.students.ubc.ca/cs/main(link is external)
 
@@ -48,16 +47,8 @@ Your name, your student #, and your program (BCS).
 ALL SCIE 300 sections that fit your schedule - both in Term 1 and 2. (The more options you list, particularly in Term 1, the higher the chance of being placed in the course.) See: https://courses.students.ubc.ca/cs/courseschedule?tname=subj-course&course=300&sessyr=2022&sesscd=W&dept=SCIE&pname=subjarea(link is external)  (Be sure to select the upcoming Winter session!)
 They will maintain a list of requests from BCS (and other non-CMS) students and offer seats in the course in the order received subject to schedule flexibility and space, after all 3rd year CMS students have had a chance to register.
 
-2.3 Prerequisites to CPSC Courses
-Make sure that you have the prerequisites to any course that you want to take. If you lack a prerequisite to a CPSC course, you will get a "Missing Prerequisite" letter in the first week of lecture. If you have a prerequisite equivalent from prior post-secondary work outside UBC, then see a CPSC advisor or the BCS Director to evaluate and record those prereqs. Note that there's specific guidance about prereqs that are MATH courses below, however.
 
 If you did not receive an exemption for a course but we included a note that you should discuss exemption for that course, please contact bcs-director@cs.ubc.ca about it ASAP. If you don't hear back in time for registration, register right away as if you were not exempted.
-
-2.4 Prerequisites to Non-CPSC Courses
-If you have a prerequisite equivalent to a non-CPSC course from prior post-secondary work outside UBC, look up the advising rules for the department offering that course to see if you will be allowed to take their course. (Searching for "X undergraduate advising" where X is the department in question usually works well.) See below for specific notes on MATH courses and prerequisites, however.
-
-2.5 Prerequisites that are MATH Courses
-For any MATH work you took or will take at UBC (Vancouver), no special action is needed to use that coursework to fulfill MATH prerequisites.
 
  
 
@@ -147,12 +138,10 @@ Students who meet the description above and earn a Pass (not Marginal Pass) on a
 4.4 CPSC 110 Exemption and Challenge Exam
 Some of you have taken an introductory CS course but were not exempted from CPSC 110. CPSC 110 is a radical departure from most institutions' intro CS. It focuses on good design principles and uses the programming language Racket. If you feel you should "skip" CPSC 110, you can take the CPSC 110 challenge exam(link is external) in early September, although you will certainly have to study CPSC 110's curriculum to succeed. Still, do ask us if you think we exempted you (or failed to!) in error!
 
-If you are taking the CPSC 110 challenge exam, register for CPSC 110 and CPSC 210 as if you were not taking it. The challenge exam administrators will help you transfer CPSC 210 registration from Term 2 to Term 1. You may however want to register for one or more of CPSC 213 and 221 in Term 2 and then drop them if you do not take credit from the challenge exam. (If you take only one of these, CPSC 221 may be the best since it is a prereq to more than CPSC 213.)
+
 
 If you take the challenge exam and meet the grade threshold for credit, you can either take the grade (counts as your CPSC 110 course and 4 credits in BCS) or take an exemption (counts as a standard BCS CPSC 110 exemption).
 
-4.5 What to Use for Exemption Replacements
-A good use of exemptions is to take prerequisites for CPSC or bridging module electives. For example, say you plan to take computer graphics (CPSC 314) as a CPSC third-year elective. CPSC 314 has prerequisites of MATH 200 (Calc III) and MATH 221 (Linear Algebra). Unless you already have these or equivalent courses, you might take them to replace your exemptions!
 
 But, you could also take additional computing courses or just take a course out of interest!
 
