@@ -126,7 +126,7 @@ const Hero = () => {
             <Subtitle>answered by BCS' Discord Bot</Subtitle>
           </WhatWeDo>
           <Description>Get Your Answers On-the-Fly with BCS Pal!</Description>
-          <Button>Demo</Button>
+          <Button><a href="https://discord.com/channels/1220504925042376704/1220504925042376706" target="_blank" style={{ textDecoration: 'none' }}>Demo</a></Button>
         </Left>
         <Right>
           <Canvas>
