@@ -27,9 +27,9 @@ function App() {
       <Background />
       <Hero />
       <Parallax type="services" />
-      <WhatWeDo /> 
+      {/* <WhatWeDo />  */}
       <Features />
-      <IntegrationP />
+      <Parallax type="integrations"/>
       <Integrations />
   </Container>
   )
