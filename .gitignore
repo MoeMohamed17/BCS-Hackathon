@@ -1,1 +1,5 @@
 constants.py
+.vite
+node_modules
+yarn.lock
+constants.py
