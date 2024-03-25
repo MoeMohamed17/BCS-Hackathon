@@ -21,9 +21,9 @@ warnings.filterwarnings("ignore")
 
 os.environ["OPENAI_API_KEY"] = constants.APIKEY
 
-query = None
-if len(sys.argv) > 1:
-  query = sys.argv[1]
+# query = None
+# if len(sys.argv) > 1:
+#   query = sys.argv[1]
 
 #loading data
 loader = DirectoryLoader("data/")
