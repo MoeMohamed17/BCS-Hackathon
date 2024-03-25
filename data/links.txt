@@ -1,0 +1,11 @@
+This is the link to register for courses. You need to log in using your ID and password: https://cas.id.ubc.ca/ubc-cas/login?TARGET=https%3A%2F%2Fssc.adm.ubc.ca%2Fsscportal%2Fservlets%2FSRVSSCFramework 
+This is the link to view existing grades, financial summary and exam schedule:
+https://cas.id.ubc.ca/ubc-cas/login?TARGET=https%3A%2F%2Fssc.adm.ubc.ca%2Fsscportal%2Fservlets%2FSRVSSCFramework
+This is the link to information regarding the English exemption exam: https://english.ubc.ca/undergraduate/first-year-english/
+
+This is the BCS piazza link an online platform where students can ask and answer questions: https://piazza.com/class/ju35hbiqp9c2kw
+This is a link that gives notifications when a spot opens up on courses at full capacity: https://ubcnotify.com/
+This is a link that gives you past course averages. Users can enter the specific semester, subject, and section number to view data: https://ubcgrades.com/
+
+This is the link for information and resources regarding off-campus housing: https://vancouver.housing.ubc.ca/other-housing/off-campus-housing/
+

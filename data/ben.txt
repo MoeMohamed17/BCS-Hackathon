@@ -1,0 +1,77 @@
+What is the BCS program?
+As stated on the official website:
+The University of British Columbia’s Bachelor of Computer Science Second Degree Program (BCS) which is also known as the Integrated Computer Science (ICS) program has been an increasingly competitive program to get into over the past few years.
+This program features a 20-month second degree program designed for university graduates who wish to make a career transition into information technology, or combining their own field with computer science.
+It features:
+Bridging Module — A coherent set of 15 credits of upper-year courses (300+ levels) which enables students to explore connections between computer science and another discipline. In brief, it is five electives that follow a similar theme that you can use to explore other areas. It is important to note that you should consult a program adviser (aka. The Director of BCS directly). I will go into more detail regarding this below, however, for the official information — official website page.
+(Optional but pretty much required to be employable) Co-op Program — The program also offers a co-operative education option that allows students to gain work experience prior to the completion of the degree. As an applicant to the BCS program, you won’t need to worry about this when you apply as the Co-op office will hold information sessions once you are accepted into the BCS program. In a nutshell, the process is first you get accepted into the BCS program, then you apply to get into the Co-op program. For official information — see the official page here.
+As stated on the official website:
+The BCS demographics are largely made up of mature students (beyond their late-20s).
+Since the program’s start in 1998, female students have made up about 37% of the accepted applicants, much higher than the average for Computer Science, and we aim to recruit 50% women and 50% men. Furthermore, about 20% of accepted applicants are from outside of North America. Many of our students, including international students, eagerly join our co-op work program to combine their degrees with real-world experience (for pay).
+
+Breakdown of the undergraduate programs that BCS students have prior to joining BCS. Source: BCS Site. UPDATE: Looks like they have removed this table from their site. (2022) This table was shown in 2020.
+In my experience, this program’s diversity of students is a very unique environment. I have met lawyers, musicians, pharmacists, geologists, fellow life sciences, and many others from a variety of disciplines. To be able to exchange and discuss their experiences was an eye-opener and I find value in such discussions. What differentiates these individuals from others is that everyone has already been through at least one degree. This means everyone is mature and is incredibly focused to finish this degree and get out.
+Tuition Cost
+Domestic students pay regular Faculty of Science tuition fees for the courses taken (Source). Tuition costs for international students are higher.
+A quick look for a domestic student per year for two academic terms (Sept-April) and assuming full course load would be around $5500–7k CAD*.
+*UBC increases these tuition costs every year so do note it is an estimate. Always check the official source below.
+Check out the official details here: https://students.ubc.ca/enrolment/finances/tuition-fees/undergraduate-tuition-fees
+So how do I apply?
+According to the official website, you will need to submit two applications:
+Online Application for Admission to UBC
+Application to the CS Department (Note: You must have applied and paid UBC’s application fee first.)
+*Note the official program requirements (https://www.cs.ubc.ca/bcs)
+
+
+
+Let’s talk about the BCS timeline. Most students I spoke with don’t finish in 20 months as that would be solely taking courses and not any internships/co-ops which would make the job search harder. Most take 3–3.5 years. I took 3.5 years to finish which is on the longer side but I squeezed in 4 x 4-month internships.
+I strongly agree with individuals who support challenging the CPSC 110. It is a significant barrier to your degree. Getting it out of the way will help you prepare much better for the first Fall Co-op term.
+NOTE: As of Sept 13, 2023, the CPSC 110 Challenge Exam may have a new policy where students that have CPSC 110 as a required course for the program cannot get an exemption— email the BCS director to confirm if you can do so! If you don’t challenge CPSC 110, that’s okay too! Make sure to take CPSC 110 and CPSC 121 together in the first term. For the rest of the courses, probs around 2 other ones — take prereqs for bridging modules courses or your bridging module courses to get them out of the way. For term 2, take CPSC 210 and that would be your only CS course. Since you took CPSC 121 in term 1 with CPSC 110, you have a lighter term and can focus on self-learning (ie. React, git, API), attending hackathons, building your projects, and ultimately beefing up your resume for the upcoming internship search.
+When researching course prerequisites, co-requisites, and their dependencies, I found these tools extremely helpful: ubcexplorer.io/ as well as ubcexplorer.io/bcs. Use them as they didn’t exist when I had originally started to plan my degree but it is now much more convenient.
+It may feel competitive as some individuals in your cohort may make the courses seem effortless. This may potentially lead to imposter syndrome and cause you to fall into a more toxic self-deprecating mental state. It is important to focus on yourself and not compare yourself to others. It’s okay for the material to not click with you immediately. It is most important to persist and continue to learn. You are transitioning to a brand new field after all! Just remember that you are on your own timeline.
+The best part of the program is the BCS community. This community is very close as everyone has a previous degree so it is easier to connect and make new friends. It is a tight-knit group with our own lounge, our own executive team organizing events, and its own annual hackathon. As it is everyone’s second degree, everyone is very motivated and with purpose which differs a lot from previous degrees.’
+Complete at least one introductory online course to get a feel for if it is what you really want to do. Plenty of free resources — Automate the Boring Stuff (Python), FreeCodeCamp, Codecademy, w3schools, Udemy, etc.
+BCS Admissions & Acceptance Information
+UPDATE: As of Sept 29, 2023 — we were able to secure some more detailed stats from the BCS Admissions team! Thanks to Eric Kim for getting this for us!
+
+UBC BCS Admission Stats for 2019–2023 (Obtained Sept 29, 2023)
+[OFFICIAL UBC BCS STATS 2019] In regards to the GPA for my cohort’s acceptance (2019 cohort), (on the assumption that they fixed the number of admits but admitted solely based on GPA — which they don’t) the GPA was ~ 82%. (Note that that would be a putative minimum, not an average.) The actual average GPA of both those who accepted the offer and those who were offered was similar and around 83.9%. (Note that that truly is a mean, and there were values well above and well below it). (This is the official stats from the 2019 BCS Director)
+[OFFICIAL UBC BCS STATS 2019] A rough number of around 450 applied to the program, and about 145 were accepted with an intended yield of 90. (This is the official stats from the 2019 BCS Director). We didn’t get any stats officially communicated to us for 2020–2023. Note: I am trying to get the missing stats from 2020–2023. Hang tight. Working on it. [Update, we got it!]
+A new addition to the program requirements is the following: “Given the highly competitive nature of admissions to BCS over the past three years, we will reject without complete review applications with a most recent 30-credit undergraduate UBC-equivalent GPA of less than 72%. We will give a complete review to all applications above this cutoff that meet the remaining minimum requirements for admission, but we expect few or no applications with GPAs less than 75% to be competitive.” — This means that there is now a minimum GPA requirement to even be considered!
+I have had numerous applicants ask if there is a BCS admissions interview. To my knowledge, in the past three cohorts (2019–2021), no one has gotten any interviews. Everyone has only received an email stating that they either got accepted or rejected.
+
+[Interesting/Outlier tip] Note: It is no longer permitted to defer BCS admission. Source: https://you.ubc.ca/applying-ubc/admitted/deferring-admission/
+[ADMISSIONS TIMELINE] The first round of acceptances was sent out on June 1st, 2023 for the 2023 cohort. (There’s a Reddit thread tracking this by u/Dangling-Symlink.)
+[ADMISSIONS TIMELINE] According to the BCS Director, the cohort of 2024 will also have delayed admission results due to UBC’s transition from their current student system to WorkDay (official source with info on transition). Admission results are also forecasted to be out in June/July.
+Application Tips / Advice
+Disclaimer: The following are application tips and advice that I have compiled based on the types of emails I have received from interested BCS applicants. It is all advice based on my experience. Mileage may vary.
+Be sure to write a good statement of purpose in your application. Express what exactly you would want to take away from the program, how the program will help you achieve your goals as well as how you could contribute back to the program and BCS community. Contribution to the BCS community is incredibly important.
+Submit two quality references that can discuss your abilities and personality based on the prompts given. For my reference letters, I had one from a professor for whom I did my undergraduate thesis and a co-worker from a blockchain startup for which I had worked part-time.
+Reference letters will ask your referrals to write about you. They are given a document containing targeted questions that will ask your referrer about what evidence they can provide that demonstrates you’ll succeed in the program, demonstrate your motivation in computing, demonstrate your track record for contributing positively to the community, and how you embody characteristics from a list provided. In general, it hones in on the four criteria that are asked in the BCS application’s Statement of Purpose (SOP). So, provide your referral with enough resources and information about yourself to ensure/assist your referral to write a great reference letter that highlights your best side!
+BCS admission to the program is not solely based on GPA as the staff takes into account work experience, the letter of intent, and reference letters.
+The BCS admissions team views each complete application (including essays, resume, reference letters, and transcripts) according to four broad criteria that are roughly equally weighted. See the official BCS interpretation on the official website.
+The following section is a simple breakdown of the 4 criteria based on my experience.
+Suitability of academic background
+Make sure that you don’t have an “excessive computing background” as the admission team doesn’t want to admit overqualified individuals. The program is targeted towards those who have a bachelor’s in a non-computer-related area, little or no programming experience, or outdated programming knowledge.
+A realistic plan for success
+This section’s goal is to allow the applicant to show that they can handle the workload that would come from the transition into a brand-new discipline. It is also where you can highlight any activities related to programming you have completed (self-learning via Udemy or FreeCodeCamp, Codecademy, YouTube, etc.). Grades and coursework related to computing are also assessed in this section. Relevant ones include CPSC 110, CPSC 121, and maybe CPSC 210.
+Motivation for program
+This section focuses on how engaged and enthusiastic you are to work hard. It seems that you have a passion for learning and the drive to complete the 2–3 year program. This is where you need to emphasize how you will succeed in the BCS program with examples to prove it. Naturally, make sure to also explain why you are the best fit for BCS and use examples to back up and provide evidence. If you can try to incorporate your previous degree as the motivation for why you want to be in the program, that might help as well.
+Contribution to community
+The admissions team values contribution to the BCS community pretty highly. This is important. This is where you have to emphasize how you will contribute to the community and interact with students/perspectives from a variety of fields and ages. How you can positively affect and help push forward the learning experience within the BCS cohort. Make sure to back this up with examples. I strongly recommend doing some volunteer work or community contributions so that you can use it as proof that you can contribute to the BCS community in your application (ie. volunteer work for communities, assistance with events, contribution to society, volunteer at a hospital, etc.) A starting point would be highlighting how the cohort benefits by having you as part of your cohort. What kind of contribution can you bring? Would it be fostering healthy discussions/spaces for BCS students to connect and exchange ideas, etc? Prove that you can make a positive impact.
+Join the UBC BCS SubReddit!
+So, you applied — what now? Feel free to interact with other applicants on the UBC BCS subreddit! https://www.reddit.com/r/UBC_BCS/
+I am also a mod there, so you might see me around under the handle mrbenc88.
+Join the Tech Career Change Discord channel!
+We also have a Discord specifically for Tech Career Change! Chat with prospective, current, and past students! https://discord.gg/96rkQyC5rX 
+We now have a very cool website! — https://techcareerchange.vercel.app/
+Information and Advice for New BCSers / I got accepted! Tell me the details.
+Congrats on getting in! You now have taken the first steps to a new journey in a new field.
+Acceptances typically get sent out around April 30 and continue to roll out until all seats are filled. (At least that’s when I got mine.)
+IMPORTANT: Welcome Notes for BCS Students
+Upon accepting the offer of admission, UBC BCS students are sent the Welcome Notes. You need a UBC account to sign in. It contains a wealth of information and provides further clarity. It’s unfortunate as many individuals don’t get access to this content until they have already accepted the offer. I’m pretty sure if you applied to the program and have a UBC account — you should be able to access this page.
+I highly recommend that you fully read it:
+MUST-READ FOR ALL BCS STUDENTS: https://my.cs.ubc.ca/node/41871
+This will also provide more information on the actual UBC BCS program and specific details and help inform your decision like how the course requirements, bridging modules, and exemptions work.
+Note the page can be a bit buggy. If you get an error / restricted access — force refresh the page or copy-paste the URL again in your browser.
+

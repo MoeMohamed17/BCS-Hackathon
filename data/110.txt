@@ -1,0 +1,19 @@
+CPSC 110 Challenge Exam: 
+
+The challenge exam is an opportunity for students who believe they already know the material covered in CPSC 110 to obtain credit for the course, without having to take the entire course. Students who successfully challenge the course by achieving a minimum exam grade of 72% will be given the option of accepting credit for CPSC 110. If students choose to accept credit for CPSC 110, this credit will count towards their program and graduation requirements exactly as if they had taken the course.
+
+What are the eligibility requirements for the challenge exam?
+Students who already have a grade or a "W" standing in CPSC 107 or 110 are not eligible to write the challenge exam. Students are only permitted to attempt the challenge exam once; if they are unsuccessful in challenging the course, they must take CPSC 110 if they wish to obtain credit for the course or take other courses that require it as a pre-requisite. Students should be confident that they already know the material covered in CPSC 110 before registering for the exam.
+
+CPSC 110 link: https://cs110.students.cs.ubc.ca/admin/links.html
+
+
+How do I register for the challenge exam?
+Students must complete all of the steps listed on the CPSC 110 Info page before the registration deadline to register for the challenge exam. Students who do not complete all of the steps before the registration deadline will not be permitted to write the exam. 
+
+Will my challenge exam grade be recorded on my transcript?
+Students who successfully challenge the course by achieving a minimum exam grade of 72% will be asked to choose between the three options below. 
+1. Record their exam grade as their grade for CPSC 110 on their transcript. If students choose this option, the letters "CH" will appear on their transcript next to the grade to indicate that they challenged the course and they will earn four (4) course credits towards their degree. Please note that this grade will contribute to their GPA.
+2. Take an exemption from CPSC 110. If students choose this option, they will be able to take other courses that require CPSC 110 as a prerequisite, but they will not have a grade for CPSC 110 recorded on their transcript or earn any course credits towards their degree. Please note that students should not choose this option if CPSC 110 is a required course for their program.
+3. Decline credit for CPSC 110. If students choose this option, it will be as though they never attempted to challenge the course. Please note that students are only permitted to attempt the challenge exam once and must take CPSC 110 if they wish to obtain credit for the course or take other courses that require it as a pre-requisite.
+Students who do not successfully challenge the course by achieving a minimum exam grade of 72% will not have a grade recorded on their transcript. It will be as though they never attempted to challenge the course, with the exception that they must now take CPSC 110 if they wish to obtain credit for the course or take other courses that require it as a pre-requisite.
